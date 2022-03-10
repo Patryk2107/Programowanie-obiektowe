@@ -50,7 +50,7 @@ namespace lab_01
         public class Uczen
         {
             private string imie;
-            public Uczen(string Uczen)
+            public Uczen(string imie)
             {
                 this imie = imie;
             }
