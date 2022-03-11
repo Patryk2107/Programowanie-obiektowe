@@ -1,0 +1,5 @@
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\lab_01\lab_01\obj\Debug\net5.0\lab_01.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\lab_01\lab_01\obj\Debug\net5.0\lab_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\lab_01\lab_01\obj\Debug\net5.0\lab_01.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\lab_01\lab_01\obj\Debug\net5.0\lab_01.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\lab_01\lab_01\obj\Debug\net5.0\lab_01.csproj.CoreCompileInputs.cache
