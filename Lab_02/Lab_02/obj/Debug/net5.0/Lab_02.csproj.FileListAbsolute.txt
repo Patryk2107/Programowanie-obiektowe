@@ -1,0 +1,16 @@
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\bin\Debug\net5.0\Lab_02.exe
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\bin\Debug\net5.0\Lab_02.deps.json
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\bin\Debug\net5.0\Lab_02.runtimeconfig.json
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\bin\Debug\net5.0\Lab_02.runtimeconfig.dev.json
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\bin\Debug\net5.0\Lab_02.dll
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\bin\Debug\net5.0\ref\Lab_02.dll
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\bin\Debug\net5.0\Lab_02.pdb
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.csproj.CoreCompileInputs.cache
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.dll
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\ref\Lab_02.dll
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.pdb
+D:\Users\Patryk.Adamczyk\Desktop\Programowanie-obiektowe\Lab_02\Lab_02\obj\Debug\net5.0\Lab_02.genruntimeconfig.cache
