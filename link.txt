@@ -1,0 +1,10 @@
+dirask.com/posts/WSEI-2021-2022-lato-labn-1-iS-programowanie-obiektowe-lab-4-j83Wap
+
+Collection - nie trzeba typu danych
+Generic trzeba dać typ danych
+Inmutable-listy tlko do odczytu
+
+
+SET Unikalny moze byc np 1 wiersz (pesel)
+
+PriorityQueue - priorytet wartosc
