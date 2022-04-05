@@ -1,0 +1,15 @@
+C:\Users\patry\source\repos\labki\labki\bin\Debug\net6.0\labki.exe
+C:\Users\patry\source\repos\labki\labki\bin\Debug\net6.0\labki.deps.json
+C:\Users\patry\source\repos\labki\labki\bin\Debug\net6.0\labki.runtimeconfig.json
+C:\Users\patry\source\repos\labki\labki\bin\Debug\net6.0\labki.dll
+C:\Users\patry\source\repos\labki\labki\bin\Debug\net6.0\labki.pdb
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.AssemblyInfo.cs
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.dll
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\refint\labki.dll
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.pdb
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\labki.genruntimeconfig.cache
+C:\Users\patry\source\repos\labki\labki\obj\Debug\net6.0\ref\labki.dll
