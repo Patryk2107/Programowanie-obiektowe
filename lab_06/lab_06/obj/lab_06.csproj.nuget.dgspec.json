@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Patryk.Adamczyk\\source\\repos\\lab_06\\lab_06\\lab_06.csproj": {}
+    "C:\\Users\\patry\\source\\repos\\SPOJ\\lab_06\\lab_06\\lab_06.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Patryk.Adamczyk\\source\\repos\\lab_06\\lab_06\\lab_06.csproj": {
+    "C:\\Users\\patry\\source\\repos\\SPOJ\\lab_06\\lab_06\\lab_06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Patryk.Adamczyk\\source\\repos\\lab_06\\lab_06\\lab_06.csproj",
+        "projectUniqueName": "C:\\Users\\patry\\source\\repos\\SPOJ\\lab_06\\lab_06\\lab_06.csproj",
         "projectName": "lab_06",
-        "projectPath": "D:\\Users\\Patryk.Adamczyk\\source\\repos\\lab_06\\lab_06\\lab_06.csproj",
-        "packagesPath": "D:\\Users\\Patryk.Adamczyk\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Patryk.Adamczyk\\source\\repos\\lab_06\\lab_06\\obj\\",
+        "projectPath": "C:\\Users\\patry\\source\\repos\\SPOJ\\lab_06\\lab_06\\lab_06.csproj",
+        "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patry\\source\\repos\\SPOJ\\lab_06\\lab_06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\Visual1\\NuGetPackages"
         ],
         "configFilePaths": [
-          "D:\\Users\\Patryk.Adamczyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\patry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
