@@ -1,0 +1,8 @@
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\bin\Debug\lab_07.exe.config
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\bin\Debug\lab_07.exe
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\bin\Debug\lab_07.pdb
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\obj\Debug\lab_07.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\obj\Debug\lab_07.csproj.SuggestedBindingRedirects.cache
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\obj\Debug\lab_07.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\obj\Debug\lab_07.exe
+C:\Users\patry\source\repos\SPOJ\lab_07\lab_07\obj\Debug\lab_07.pdb
