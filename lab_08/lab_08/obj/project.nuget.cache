@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ae9mpB/WA2IQMLOpwlP3CAosRVU3uT+y2+FQg8ONzlhg+AW8tT2hDlcbhMSKLzu3YQ11iJm6ymVS+ztuMPV8QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\source\\repos\\kolos\\lab_08\\lab_08\\lab_08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
