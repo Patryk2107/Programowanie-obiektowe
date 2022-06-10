@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwyxFMuAY63q9GVMA3YZ9JwbMFuYsRaU65zwr8mrtYPWwItMIWWfoWPCM2Ecvn7scPuV4y6gZNEXe1Sl7NYiYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\source\\repos\\kolos\\kol\\uml\\uml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpjkfOZiVsIhnOHj80ynjbXf24qcE/qXi2p8RGMlG/WXf9icFv3CF3qboVtP6s5MECSZP1ynbeQJlblk5Vc0Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\source\\repos\\kolos\\kol\\kol\\kons itd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
